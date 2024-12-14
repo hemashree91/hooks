@@ -1,0 +1,8 @@
+- Fetches product data from the Fake Store API. 
+- Displays products in a user-friendly format. 
+- Allows users to add products to the cart. - Displays an alert if the product is already added to the cart.
+ - Responsive layout for products.
+  - Displays the current cart items count in a Navbar component.
+   - Opens a modal with cart items when the "Cart" button is clicked. 
+   - Allows users to remove products from the cart through the modal.
+    - Responsive design that works well on both desktop and mobile devices.
